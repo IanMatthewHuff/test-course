@@ -1,0 +1,30 @@
+id: web-dev-stub
+title: Web Development Course Stub + P5.js
+level: beginner
+description: If you’re looking for a course on an introduction to web
+  development and p5.js, this is it.
+objectives: >
+  This Web Dev introductory computer science course is designed for both High
+  School (grades 9-12) and College learners. The course does not have any
+  learner prerequisites and is currently available only in English. To
+  participate in the course, you only need access to a device (computer or
+  tablet) with an internet connection.
+
+
+  In this course, you will learn:
+
+  - How to create a website using HTML, CSS, and JavaScript
+
+  - How to use the P5.js library to create interactive web graphics
+prerequisites: |
+  - A school or company issued email account
+  - Access to a device (computer or tablet) with an internet connection  
+  - A student in grades 9-12 or over 13 years of age
+contacts:
+  - displayName: Microsoft VSCode Edu
+    affiliation: Microsoft
+    pictureUrl: media/python-logo.webp
+    homePageUrl: https://ppe.vscodeedu.com
+units:
+  - wds-get-started/index.yaml
+  - wds-basic-p5js/index.yaml
