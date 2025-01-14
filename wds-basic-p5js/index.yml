@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: wds-basic-p5js
 title: Unit 1 - p5.js Basics
 description: |
@@ -6,4 +7,4 @@ objectives: |
   Upon completion of this lesson, you'll be able to:
     - Create a basic p5.js sketch
 lessons:
-  - wds-basic-p5js-setting-up/index.yaml
+  - wds-basic-p5js-setting-up/index.yml

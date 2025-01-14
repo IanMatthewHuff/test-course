@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+id: wds-basic-p5js-setting-up-basic-drawing
+title: Basic shape drawing functions.
+content: |
+  [!include[](includes/3-basic-drawing.md)]
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

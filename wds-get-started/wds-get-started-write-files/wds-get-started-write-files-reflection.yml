@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+id: wds-get-started-write-files-reflection
+title: Web Dev Reflection
+content: |
+  [!include[](includes/2-test-reflection.md)]
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

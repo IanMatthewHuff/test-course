@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+id: wds-basic-p5js-setting-up-html
+title: Setting up HTML
+content: |
+  [!include[](includes/1-html.md)]
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

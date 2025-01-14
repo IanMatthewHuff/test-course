@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: web-dev-stub
 title: Web Development Course Stub + P5.js
 level: beginner
@@ -26,5 +27,5 @@ contacts:
     pictureUrl: media/python-logo.webp
     homePageUrl: https://ppe.vscodeedu.com
 units:
-  - wds-get-started/index.yaml
-  - wds-basic-p5js/index.yaml
+  - wds-get-started/index.yml
+  - wds-basic-p5js/index.yml

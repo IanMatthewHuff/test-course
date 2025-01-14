@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+id: wds-basic-p5js-setting-up-script
+title: Setting up p5.js scripts
+content: |
+  [!include[](includes/2-script.md)]
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
