@@ -14,7 +14,7 @@ objectives: |
     - Write HTML, CSS, and JS
    - Add objective here
 standards:
-  - csta-student:1a-ap-08
+  - csta-student:1b-ap-09
 lessonParts:
   - wds-get-started-write-files-dev.yml
   - wds-get-started-write-files-reflection.yml

@@ -7,6 +7,8 @@ description: |
 objectives: |
   Upon completion of this lesson, you'll be able to:
     - Create a basic HTML page to host a p5.js sketch
+standards:
+  - csta-student:1b-da-06
 lessonParts:
   - wds-basic-p5js-setting-up-html.yml
   - wds-basic-p5js-setting-up-script.yml
