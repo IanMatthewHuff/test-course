@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: web-dev-stub
 title: Web Development Course Stub + P5.js
 level: beginner
@@ -21,6 +21,7 @@ prerequisites: |
   - A school or company issued email account
   - Access to a device (computer or tablet) with an internet connection  
   - A student in grades 9-12 or over 13 years of age
+cardImageUrl: https://ppe.vscodeedu.com/assets/course-cards/card8.png
 contacts:
   - displayName: Microsoft VSCode Edu
     affiliation: Microsoft

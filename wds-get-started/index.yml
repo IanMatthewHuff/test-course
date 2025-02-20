@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: wds-get-started
 title: Unit 1 - Getting Started
 description: |

@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: wds-basic-p5js-setting-up
 title: Lesson 1 - Setting up p5.js
 duration: 20
@@ -7,8 +7,6 @@ description: |
 objectives: |
   Upon completion of this lesson, you'll be able to:
     - Create a basic HTML page to host a p5.js sketch
-standards:
-  - csta-student:1b-da-06
 lessonParts:
   - wds-basic-p5js-setting-up-html.yml
   - wds-basic-p5js-setting-up-script.yml
