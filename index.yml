@@ -26,6 +26,9 @@ contacts:
     affiliation: Microsoft
     pictureUrl: media/python-logo.webp
     homePageUrl: https://ppe.vscodeedu.com
+files:
+  - path: web-dev-stub_wds-get-started_wds-get-started-write-files_wds-get-started-write-files-dev/test.py
+    content: print('testing')
 units:
   - wds-get-started/index.yml
   - wds-basic-p5js/index.yml

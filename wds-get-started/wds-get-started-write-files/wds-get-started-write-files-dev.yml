@@ -7,3 +7,6 @@ showContent: true
 showEditor: false
 showTerminal: false
 showExplorer: false
+editors:
+  - type: py
+    path: web-dev-stub_wds-get-started_wds-get-started-write-files_wds-get-started-write-files-dev/test.py
